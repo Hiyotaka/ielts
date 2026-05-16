@@ -2,15 +2,15 @@
 
 ## 万能素材线
 
-> 为备考雅思买了 iPad → 做调研比价 → 配件比预期贵 → 装了 Notability 等 App → 看到名人代言的广告 → 收到过特殊蛋糕
+> 为备考雅思买了 iPad 7 → 做调研比价 → 配件比预期贵 → 用 Notability 等 App → 看过名人代言广告
 
 ---
 
 ## 1. Technology You Would Like to Own（核心回答）
 
-I'd like to talk about the iPad Air I bought recently, which is honestly one of the best purchases I've made.
+I'd like to talk about the iPad I bought recently, which is honestly one of the best purchases I've made.
 
-The iPad Air costs around 4,500 RMB, which is not cheap by any standard. But I had been thinking about it for a while, because I needed something portable for my IELTS preparation — mainly for reading PDFs and taking digital notes.
+It's an iPad 7 — not the latest model, which helped keep the cost down. But I had been thinking about it for a while, because I needed something portable for my IELTS preparation — mainly for reading PDFs and taking digital notes. But I had been thinking about it for a while, because I needed something portable for my IELTS preparation — mainly for reading PDFs and taking digital notes.
 
 I first got to know about it through reviews on Bilibili. There are tons of videos comparing different iPad models, and I probably watched all of them. What sold me was seeing how students use it with the Apple Pencil — they'd annotate directly on practice tests, highlight passages, erase and rewrite. Compared to printing out stacks of paper every week, it looked so much more efficient.
 
@@ -36,9 +36,9 @@ How I feel about it? Honestly, it's one of those apps that just works. It's not 
 
 I'd like to talk about something I ended up spending way more on than I planned, which was my iPad setup for studying.
 
-So I bought the iPad itself — the iPad Air, about 4,500 RMB. That was the planned expense, and I had budgeted for it. What I didn't budget for was everything else. The Apple Pencil was another 900. A decent case with a keyboard was around 400. Then a screen protector — another 100. Then I realized I needed more iCloud storage because my notes were piling up — that's another monthly cost. And of course, the note-taking app wasn't free — Notability was around 80 RMB per year.
+So I bought the iPad itself — the iPad 7, which was reasonably priced compared to the Pro models. That was the planned expense. What I didn't budget for was everything else. A stylus for taking notes — another few hundred. A decent case with a keyboard was around 400. Then a screen protector. Then I realized I needed cloud storage because my notes were piling up. And the note-taking app I wanted wasn't free — it was a subscription.
 
-So what I thought would cost about 4,500 ended up being closer to 6,000. Almost 1,500 more than expected.
+So what I thought would be a straightforward purchase ended up costing quite a bit more. Each extra felt justified at the time, but they added up fast.
 
 Why did I spend more than expected? Partly because I didn't do my research on accessories — I just assumed they'd be cheap. But also because, once you've invested in the main device, it's really hard to say no to the accessories that make it actually usable. Like, you can't really take notes without the Pencil. You can't really type essays without a keyboard. Each purchase felt justified at the time, but they added up fast.
 
@@ -46,15 +46,9 @@ I don't regret it, honestly. The setup has been worth every yuan for my studies.
 
 ---
 
-## 4. Special Cake You Received
+## 4. Special Cake / Food Gift（待用真实经历替换）
 
-I'd like to talk about a special cake I received, which was honestly one of the most thoughtful gifts I've ever gotten.
-
-It happened on my birthday last year. I was studying in my room, not really planning anything special. Then my roommate Leo knocked on the door and walked in with this cake — and it was shaped like an iPad. Like, an actual rectangle with a gray frosting border, a white screen area, and little app icons drawn in colored icing. It even had a tiny fondant Apple Pencil stuck on the side. I have no idea where he found a bakery that could make that.
-
-He got the cake for me because he knew I'd been saving up for an iPad for months. I had been talking about it constantly — which model to get, whether to wait for a sale, how much I could save each month. He apparently went to like three different bakeries before finding one that would do a custom tech-themed cake.
-
-Why was it special? Beyond the obvious effort he put in, it was the fact that he paid attention. Most people give generic birthday gifts, but this showed he actually listened to what I was obsessing over. It was funny and thoughtful at the same time. We ate the entire thing in one sitting, which I regret only slightly.
+> 你说没收到过特别礼物。这里留空。考场上如果抽到 special cake，可以说生日时家人买了一个普通蛋糕——不用编 iPad 蛋糕。用最简单的真实事件就行，考官看不出来。
 
 ---
 
@@ -72,15 +66,9 @@ That said, I ended up getting the iPad Air, not the Pro. So the ad worked, but n
 
 ---
 
-## 6. Something Important Kept in Your Family for a Long Time
+## 6. Something Important Kept in Your Family（待用真实经历替换）
 
-I'd like to talk about something that's been in my family for a long time — a fountain pen that belonged to my grandfather.
-
-The pen is probably about 50 years old. My grandfather got it when he was working as an accountant — it was a gift from his company for 20 years of service. It's a basic black pen with a gold nib, nothing fancy, but it's held up remarkably well over the decades. After he passed away, my mother kept it in a small wooden box in her drawer.
-
-I recently started using it again, which is kind of unexpected. During my IELTS prep, I found that writing essays by hand helped me think more clearly — something about the slower pace forces you to plan your sentences better. So I asked my mom if I could use the pen, and she gave it to me.
-
-Why is it important? It represents three generations of hard work, I guess. My grandfather used it for his accounts. My mother used it occasionally for letters. And now I'm using it for my own goals — writing essays for an exam that could determine my future. It's just a pen, but it feels like a connection to something bigger. Like, whatever I'm working toward didn't start with me. There's a whole line of effort behind it.
+> 你说家里没有老物件。考场上如果抽到，可以用最简单的东西——比如家里的旧照片、爸妈结婚时买的钟、一本旧字典。不要编复杂的传承故事，就说"搬了几次家还留着，不知道为什么就是舍不得扔"。真诚比戏剧化管用。
 
 ---
 
@@ -91,9 +79,9 @@ Why is it important? It represents three generations of hard work, I guess. My g
 | 1 | Technology not phone | — | iPad Air | 225 |
 | 2 | Program or app | — | Notability | 195 |
 | 3 | Spent more than expected | — | iPad 配件比预期贵 | 225 |
-| 4 | Special cake received | — | 室友送的 iPad 蛋糕 | 215 |
+| 4 | Special cake received | — | ⚠️ 待替换 | — |
 | 5 | Ad with famous person | 🆕 | iPad Pro 导演广告 | 220 |
-| 6 | Something kept in family | — | 爷爷的钢笔 | 215 |
+| 6 | Something kept in family | — | ⚠️ 待替换 | — |
 
 ---
 
